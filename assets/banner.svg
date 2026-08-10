@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Raju Kumar Pandey  Java Backend & Android Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712"/>
+      <stop offset="55%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0.15"/>
+    </linearGradient>
+    <linearGradient id="text" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F8FAFC"/>
+      <stop offset="45%" stop-color="#93C5FD"/>
+      <stop offset="100%" stop-color="#67E8F9"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#94A3B8" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" fill="url(#bg)"/>
+  <rect width="1280" height="360" fill="url(#grid)"/>
+  <circle cx="1080" cy="40" r="180" fill="url(#glow)" opacity="0.45"/>
+  <circle cx="180" cy="320" r="140" fill="#06B6D4" opacity="0.08"/>
+  <rect x="0" y="0" width="1280" height="3" fill="#3B82F6"/>
+
+  <text x="80" y="118" fill="#67E8F9" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" letter-spacing="4">JAVA BACKEND · SPRING BOOT · ANDROID</text>
+  <text x="80" y="188" fill="url(#text)" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="700">Raju Kumar Pandey</text>
+  <text x="80" y="240" fill="#CBD5E1" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24">Building scalable enterprise APIs and production Android apps.</text>
+
+  <rect x="80" y="278" rx="18" ry="18" width="168" height="36" fill="#111827" stroke="#3B82F6" stroke-opacity="0.45"/>
+  <text x="164" y="302" text-anchor="middle" fill="#E2E8F0" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Open to Hire</text>
+
+  <rect x="266" y="278" rx="18" ry="18" width="210" height="36" fill="#111827" stroke="#334155"/>
+  <text x="371" y="302" text-anchor="middle" fill="#94A3B8" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14">Noida, India · Remote-ready</text>
+</svg>
