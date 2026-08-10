@@ -91,16 +91,33 @@ I focus on clean API design, secure authentication, event-driven workflows, and 
 
 ---
 
-### GitHub Snapshot
+### Activity Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pandeyraju07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.demolab.com?user=Pandeyraju07&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+<a href="https://github.com/Pandeyraju07">
+  <img src="https://github-stats-extended.vercel.app/api?username=Pandeyraju07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="168" alt="GitHub stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Pandeyraju07">
+  <img src="https://streak-stats.demolab.com?user=Pandeyraju07&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" height="168" alt="GitHub streak" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pandeyraju07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+<a href="https://github.com/Pandeyraju07">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pandeyraju07&layout=compact&theme=dark&hide_border=true&langs_count=6&card_width=420" height="168" alt="Top languages" />
+</a>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/3B82F6/Pandeyraju07" width="100%" alt="GitHub contribution chart" />
+
+<br/><br/>
+
+![Repos](https://img.shields.io/badge/Public_Repos-8-111827?style=for-the-badge&logo=github&logoColor=white)
+![Gists](https://img.shields.io/badge/Gists-2-111827?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Java_%7C_Spring_Boot_%7C_Android-1D4ED8?style=for-the-badge)
 
 </div>
 
