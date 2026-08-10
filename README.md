@@ -96,28 +96,28 @@ I focus on clean API design, secure authentication, event-driven workflows, and 
 <div align="center">
 
 <a href="https://github.com/Pandeyraju07">
-  <img src="https://github-stats-extended.vercel.app/api?username=Pandeyraju07&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="168" alt="GitHub stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Pandeyraju07">
-  <img src="https://streak-stats.demolab.com?user=Pandeyraju07&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" height="168" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Pandeyraju07&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=94A3B8&dates=64748B" height="170" alt="Contribution streak" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/Pandeyraju07">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pandeyraju07&layout=compact&theme=dark&hide_border=true&langs_count=6&card_width=420" height="168" alt="Top languages" />
-</a>
+<img src="https://ghchart.rshah.org/3B82F6/Pandeyraju07" width="760" alt="Contribution graph" />
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/3B82F6/Pandeyraju07" width="100%" alt="GitHub contribution chart" />
+| Metric | Detail |
+| :---: | :---: |
+| **Public Repositories** | 8 |
+| **Public Gists** | 2 |
+| **Primary Stack** | Java · Spring Boot · Kotlin |
+| **Domain Focus** | Enterprise Backend · Android |
 
-<br/><br/>
+<br/>
 
-![Repos](https://img.shields.io/badge/Public_Repos-8-111827?style=for-the-badge&logo=github&logoColor=white)
-![Gists](https://img.shields.io/badge/Gists-2-111827?style=for-the-badge&logo=github&logoColor=white)
-![Focus](https://img.shields.io/badge/Focus-Java_%7C_Spring_Boot_%7C_Android-1D4ED8?style=for-the-badge)
+![Java](https://img.shields.io/badge/Primary-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Framework-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Android](https://img.shields.io/badge/Mobile-Android_Kotlin-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-Live_Demos-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
