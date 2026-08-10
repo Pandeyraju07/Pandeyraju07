@@ -4,7 +4,7 @@
 -->
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="Raju Kumar Pandey — Java Backend & Android Engineer" width="100%" />
+  <img src="https://raw.githubusercontent.com/Pandeyraju07/Pandeyraju07/main/assets/banner.png" alt="Raju Kumar Pandey — Java Backend & Android Engineer" width="100%" />
 </div>
 
 <br/>
