@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Contribution streak">
+  <defs>
+    <style>
+      .label { fill: #94A3B8; font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .value { fill: #F8FAFC; font: 700 28px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .date { fill: #64748B; font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; }
+      .title { fill: #3B82F6; font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; }
+    </style>
+  </defs>
+  <rect width="495" height="195" rx="8" fill="#0D1117" stroke="#1F2937"/>
+  <g transform="translate(24,28)">
+    <text class="label" x="56" y="0" text-anchor="middle">Total Contributions</text>
+    <text class="value" x="56" y="40" text-anchor="middle">62</text>
+    <text class="date" x="56" y="62" text-anchor="middle">Aug 27, 2025 - Present</text>
+  </g>
+  <g transform="translate(190,20)">
+    <circle cx="56" cy="40" r="38" fill="none" stroke="#3B82F6" stroke-width="4"/>
+    <text class="title" x="56" y="-2" text-anchor="middle">Current Streak</text>
+    <text class="value" x="56" y="48" text-anchor="middle">3</text>
+    <text class="date" x="56" y="95" text-anchor="middle">Aug 10, 2026 - Aug 12, 2026</text>
+  </g>
+  <g transform="translate(356,28)">
+    <text class="label" x="56" y="0" text-anchor="middle">Longest Streak</text>
+    <text class="value" x="56" y="40" text-anchor="middle">4</text>
+    <text class="date" x="56" y="62" text-anchor="middle">Sep 1, 2025 - Sep 4, 2025</text>
+  </g>
+</svg>

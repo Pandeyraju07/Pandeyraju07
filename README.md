@@ -119,7 +119,7 @@ That’s how this contribution graph gets filled: consistency, not noise.
 <div align="center">
 
 <a href="https://github.com/Pandeyraju07">
-  <img src="https://streak-stats.demolab.com?user=Pandeyraju07&theme=dark&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=94A3B8&dates=64748B" height="165" alt="Contribution streak" />
+  <img src="./assets/streak.svg" height="165" alt="Contribution streak" />
 </a>
 
 <br/><br/>
